@@ -1,3 +1,15 @@
 # hello-world
 This repository is for practicing the GitHub Flow.
-My nameis Kristopher I am 18 years old and I was born on the third of December 2005.
+def main()
+Introduction()
+
+def Introduction()
+    Nme = input("Name: ")
+    Age = input("Age: ")
+    txt = input (Talk Baout yourself: )
+
+    x = Nme.lower()
+    y = Age
+    z = txt.lower()
+    print(x + y + z)
+main()
